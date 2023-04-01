@@ -56,13 +56,13 @@
 
 <img align="right" src="img\logo-blumaiden.jpg" width = "50" />
 
-- **BluMaiden Biosciences** - Singapore\
+- [**BluMaiden Biosciences**](https://www.blumaiden.com/) - Singapore\
 📆 2022 - moment: Senior Bioinformatician, DevOps\
 📆 2021 - 2022: Associate Scientist
 
 <img align="right" src="img\logo-sclese.jpg" width = "50" />
 
-- **Singapore Center For Life Sciences Engineering (SCELSE)** - Singapore\
+- [**Singapore Center For Life Sciences Engineering (SCELSE)**](https://scelse.sg/) - Singapore\
 📆 2019 - 2021: Senior Research Fellow\
 📆 2015 - 2019: Research Fellow
 
