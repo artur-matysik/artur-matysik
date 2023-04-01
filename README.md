@@ -63,8 +63,8 @@
 <img align="right" src="img\logo-sclese.jpg" width = "50" />
 
 - **Singapore Center For Life Sciences Engineering (SCELSE)** - Singapore\
-📆 2019 - 2021: Senior Bioinformatician, DevOps\
-📆 2015 - 2019: Associate Scientist
+📆 2019 - 2021: Senior Research Fellow\
+📆 2015 - 2019: Research Fellow
 
 <!-- <img align="right" src="img\logo-ntu2.png" height = "50" /> -->
 
