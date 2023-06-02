@@ -57,7 +57,8 @@
 <img align="right" src="img\logo-blumaiden.jpg" width = "50" />
 
 - [**BluMaiden Biosciences**](https://www.blumaiden.com/) - Singapore\
-📆 2022 - moment: Senior Bioinformatician, DevOps\
+📆 2023 - present: Principal Scientist (Computational Biology) \
+📆 2022 - 2023: Senior Bioinformatician, DevOps\
 📆 2021 - 2022: Associate Scientist
 
 <img align="right" src="img\logo-sclese.jpg" width = "50" />
