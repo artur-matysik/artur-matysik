@@ -77,7 +77,7 @@
 <!-- <img align="right" src="img\logo-ntu2.png" height = "50" /> -->
 
 - **Nanyang Technological University (NTU)** - Singapore\
-📆 2014 - 2015: Teaching Assistant
+📆 2014 - 2015: Research Assistant
 
 ### Education
 
