@@ -25,6 +25,7 @@
 <!-- <details>
   <summary>📃 Resume</summary> -->
 
+<!--
 ## Skills
 
 <img align="right" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
@@ -49,14 +50,19 @@
 <img align="right" src="img/logo-docker.png" height = 20/>
 
 **Pipelines**
+-->
 
 ## Resume
 
-### Experience
+### Work history
+
+<img align="right" src="img\logo-oryx.png" width = "50" />
 
 - **Oryx Consulting** - Singapore\
-📆 2024 - now: Director \
- 
+📆 2024 - now: Director 
+
+<img align="right" src="img\logo-blumaiden.jpg" width = "50" />
+
 - [**BluMaiden Biosciences**](https://www.blumaiden.com/) - Singapore\
 📆 2023 - 2024: Principal Scientist (Computational Biology) \
 📆 2022 - 2023: Senior Bioinformatician, DevOps\
