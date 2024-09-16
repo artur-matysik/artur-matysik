@@ -8,14 +8,14 @@
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/artur-matysik/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
     <a href="https://orcid.org/0000-0003-3702-9491">
-        <img alt="ORCID logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ORCID_logo.svg/250px-ORCID_logo.svg.png?20151209081822" width="88" height="30" />
-    </a>&nbsp;&nbsp;
+        <img alt="ORCID logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ORCID_logo.svg/250px-ORCID_logo.svg.png?20151209081822" width="88" height="30">
+    </a>
     <a href="https://twitter.com/ArturMatysik/">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
 </p>
 
 <p align='center'>
