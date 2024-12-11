@@ -87,7 +87,7 @@
 
 - **MSc Biotechnology** specialization: Biophysics 📆 2002 - 2007\
 📍 *Jagiellonian University* -  Krakow, Poland\
-📍 *University of Chicago* (visiting student, 1yr) -  Chicago, USA
+📍 *University of Chicago* -  Chicago, USA
 
 
 
